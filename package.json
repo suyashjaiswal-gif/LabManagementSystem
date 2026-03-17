@@ -2,7 +2,7 @@
   "name": "laboratory-management-system",
   "version": "1.0.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://suyashjaiswal-gif.github.io/LabManagementSystem",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
